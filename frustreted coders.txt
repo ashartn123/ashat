@@ -8,7 +8,7 @@ Constraints:1<= N <= 1000000
             1<=S[ i ]<=1000 
 
 
-Answer:#include<bits/stdc++.h>
+Answer:#include<stdio.h>
 using namespace std;
 
 main()
